@@ -8,7 +8,7 @@ The notebook consists of the following parts:
 
 - Data pre-processing
 
-- Building ML model
+- Building ML models
 
 - Hyperparameter optimization
 
