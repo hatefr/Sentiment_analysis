@@ -16,4 +16,4 @@ The notebook consists of the following parts:
 
 Four different models are used for classification data: Decision Tree, SVM, Multinomial Naive Bayes, and Logistic Regression. I will also explore and report top words for each sentiment with the highest positive/negative effects. Lastly, I will test the best trained model on some of my own personal messages.  
 
-Let's get started. 
+So, let's get started. 
