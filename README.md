@@ -6,7 +6,7 @@ The notebook consists of the following parts:
 
 - Data preparation and visualization
 
-- Data pre-processing
+- Pre-processing
 
 - Building ML models
 
